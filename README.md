@@ -1,5 +1,7 @@
 # Customer Details Portal
 
+https://customer-details-portal-demo.vercel.app/
+
 This project is a single-page application built with React and TypeScript that displays a customer details portal. It was developed as part of a React assignment to demonstrate best practices in React, HTML, CSS, and TypeScript.
 
 ## Features
