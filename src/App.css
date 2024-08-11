@@ -1,4 +1,12 @@
+/* App.css */
 .app {
   display: flex;
+  flex-direction: column;
   height: 100vh;
+}
+
+@media (min-width: 768px) {
+  .app {
+    flex-direction: row;
+  }
 }
